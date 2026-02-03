@@ -20,7 +20,7 @@ df = pd.read_csv(r"C:\Users\Himaja\Downloads\Fraud Detection Dataset.csv")
 df.head()
 
 
-# In[4]:
+
 
 
 # Check number of rows and columns
