@@ -9,7 +9,7 @@ import numpy as np
 import os
 
 # Load the fraud dataset
-df = pd.read_csv(r"C:\Users\Himaja\Downloads\Fraud Detection Dataset.csv")
+df = pd.read_csv(r"C:Your Downloaded Dataset Path.csv")
 
 # Preview the data
 df.head()
